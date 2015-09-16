@@ -1,0 +1,2 @@
+004-0014c00	TKD 06-1129a	buddhist/K-koreana/06-tif/1100-1199/06_1129_A.TIF
+000-0015a23	TKD 06-1129b	buddhist/K-koreana/06-tif/1100-1199/06_1129_B.TIF
